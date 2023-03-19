@@ -1,0 +1,2 @@
+$accordion-padding-y: 1rem;
+$accordion-padding-x: .125rem;
